@@ -48,16 +48,17 @@
         <div class="filter-container">
             <Select items={filterOptions}>Filtro</Select>
             <Select items={opOptions}>Operador</Select>
-            <TextField>Correspondente</TextField>
+            <TextField>Valor</TextField>
         </div>
     </div>
     <div class="w-full">
         <DataTable class="w-full">
             <DataTableHead>
                 <DataTableRow>
+                <DataTableCell>Status</DataTableCell>
                 <DataTableCell>Modelo</DataTableCell>
                 <DataTableCell>Série</DataTableCell>
-                <DataTableCell>Status</DataTableCell>
+                <DataTableCell>Prédio</DataTableCell>
                 <DataTableCell>IP</DataTableCell>
                 <DataTableCell>Fila</DataTableCell>
                 <DataTableCell>Setor</DataTableCell>
@@ -69,22 +70,43 @@
             </DataTableHead>
             <DataTableBody>
                 <DataTableRow>
-                <DataTableCell>Frozen yogurt</DataTableCell>
-                <DataTableCell>24</DataTableCell>
-                <DataTableCell>4.0</DataTableCell>
-                <DataTableCell>Super tasty</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
                 </DataTableRow>
                 <DataTableRow>
-                <DataTableCell>Ice cream sandwich</DataTableCell>
-                <DataTableCell>37</DataTableCell>
-                <DataTableCell>4.33333333333</DataTableCell>
-                <DataTableCell>I like ice cream more</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
                 </DataTableRow>
                 <DataTableRow>
-                <DataTableCell>Eclair</DataTableCell>
-                <DataTableCell>24</DataTableCell>
-                <DataTableCell>6.0</DataTableCell>
-                <DataTableCell>New filing flavor</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
+                    <DataTableCell>TESTE</DataTableCell>
                 </DataTableRow>
             </DataTableBody>
         </DataTable>

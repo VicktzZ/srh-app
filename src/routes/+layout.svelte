@@ -1,24 +1,23 @@
 <script lang="ts">
-	import { MaterialApp } from 'svelte-materialify';
 	import '../app.css';
+	import { MaterialApp } from 'svelte-materialify';
 	import Nav from '../components/Nav.svelte';
-
-	// svelte-ignore non_reactive_update
-	let theme = $state('light');
+	import { writable } from 'svelte/store';
+	
+	const theme = writable()
 
 	export function toggleTheme() {
-		if (theme === 'light') theme = 'dark';
-		else theme = 'light';
+		$theme === 'light' ? theme.set('dark') : theme.set('light')
 	}
 
 	let { children } = $props();
 </script>
 
-<MaterialApp {theme}>
+<MaterialApp theme={$theme}>
 	<div class="flex">
 		<Nav {toggleTheme} />
 		<div class="p-4 w-full">
 			{@render children()}
 		</div>
 	</div>
-</MaterialApp>
+</MaterialApp>	

@@ -35,6 +35,7 @@
 	"type": "module",
 	"dependencies": {
 		"@mdi/js": "^7.4.47",
+		"exceljs": "^4.4.0",
 		"postcss": "^8.4.48",
 		"sass": "^1.80.6",
 		"svelte-materialify": "^0.3.11",

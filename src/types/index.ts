@@ -1,5 +1,17 @@
-import type { Printer } from "./printer";
+import type { 
+    Printer,
+    PEID,
+    PrinterConsumableData,
+    PrinterName,
+} from "./printer";
 
-export type {
-    Printer
+import { PrinterExcelColumns, type ExcelDefaultPrinter } from './excel';
+
+export {
+    type Printer,
+    type PEID,
+    type PrinterConsumableData,
+    type PrinterName,
+    type ExcelDefaultPrinter,
+    PrinterExcelColumns,
 }
