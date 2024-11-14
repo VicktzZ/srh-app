@@ -1,5 +1,5 @@
 export type Printer = {
-    model: ConvertedPrinterName
+    model: string
     serie: string
     connection: string
     queue: string
@@ -53,6 +53,7 @@ export type PrinterName =
 'SCANMATE I940' |
 'KODAK S2070' |
 'KODAK I3200' |
+'KODAK I3450' |
 'ZEBRA ZD220' |
 'ZEBRA ZD230' |
 'ZEBRA ZD510' |
@@ -60,7 +61,9 @@ export type PrinterName =
 'XRX C600' |
 'C7120' |
 'C8130' |
-'OKI C911'
+'OKI C911' |
+'LEXMARK MS610DN' |
+'LEXMARK E460'
 
 export type PrinterConsumableData = {
     EstimatedPagesRemaining: { _text: string },

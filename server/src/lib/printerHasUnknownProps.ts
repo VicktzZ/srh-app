@@ -1,4 +1,4 @@
-import type { Printer } from "#types";
+import type { Printer } from "@types";
 
 const printerModel: Printer = {
     connection: '',

@@ -6,10 +6,7 @@
         "block": "A",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.48",
-            "hyperlink": "http://10.9.9.48/"
-        },
+        "connection": "http://10.9.9.48/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TAM1",
         "SNMP": "OK"
     },
@@ -20,10 +17,7 @@
         "block": "CME",
         "floor": "6º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "172.18.157.90",
-            "hyperlink": "http://172.18.157.90/"
-        },
+        "connection": "http://172.18.157.90/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-6M5"
     },
     {
@@ -42,10 +36,7 @@
         "block": "CME",
         "floor": "10º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "172.18.157.14",
-            "hyperlink": "http://172.18.157.14/"
-        },
+        "connection": "http://172.18.157.14/sws/app/information/home/home.json",
         "queue": "PRN-CME-10M3",
         "SNMP": "OK"
     },
@@ -56,10 +47,7 @@
         "block": "A",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.49",
-            "hyperlink": "http://10.9.9.49/"
-        },
+        "connection": "http://10.9.9.49/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TAM3",
         "SNMP": "OK"
     },
@@ -70,10 +58,7 @@
         "block": "A",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.50",
-            "hyperlink": "http://10.9.9.50/"
-        },
+        "connection": "http://10.9.9.50/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TAM2"
     },
     {
@@ -83,10 +68,7 @@
         "block": "A",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.51",
-            "hyperlink": "http://10.9.9.51/"
-        },
+        "connection": "http://10.9.9.51/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1TM16",
         "SNMP": "OK"
     },
@@ -97,10 +79,7 @@
         "block": "A",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.52",
-            "hyperlink": "http://10.9.9.52/"
-        },
+        "connection": "http://10.9.9.52/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TAM17",
         "SNMP": "OK"
     },
@@ -111,7 +90,7 @@
         "block": "CME",
         "floor": "10º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.28",
+        "connection": "http://172.18.157.28/DevMgmt/ProductUsageDyn.xml",
         "queue": " PRN-CME-6M3",
         "SNMP": "OK"
     },
@@ -122,10 +101,7 @@
         "block": "A",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.36",
-            "hyperlink": "http://10.9.9.36/"
-        },
+        "connection": "http://10.9.9.36/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1AM1",
         "SNMP": "OK"
     },
@@ -136,10 +112,7 @@
         "block": "A",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.37",
-            "hyperlink": "http://10.9.9.37/"
-        },
+        "connection": "http://10.9.9.37/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2AM1",
         "SNMP": "OK"
     },
@@ -150,10 +123,7 @@
         "block": "A",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.38",
-            "hyperlink": "http://10.9.9.38/"
-        },
+        "connection": "http://10.9.9.38/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3AM1",
         "SNMP": "OK"
     },
@@ -164,10 +134,7 @@
         "block": "A",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.41",
-            "hyperlink": "http://10.9.9.41/"
-        },
+        "connection": "http://10.9.9.41/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4AM1",
         "SNMP": "OK"
     },
@@ -178,10 +145,7 @@
         "block": "A",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.43",
-            "hyperlink": "http://10.9.9.43/"
-        },
+        "connection": "http://10.9.9.43/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5AM1",
         "SNMP": "OK"
     },
@@ -192,10 +156,7 @@
         "block": "A",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.44",
-            "hyperlink": "http://10.9.9.44/"
-        },
+        "connection": "http://10.9.9.44/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6AM1",
         "SNMP": "OK"
     },
@@ -206,10 +167,7 @@
         "block": "A",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.45",
-            "hyperlink": "http://10.9.9.45/"
-        },
+        "connection": "http://10.9.9.45/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-7AM1",
         "SNMP": "OK"
     },
@@ -231,10 +189,7 @@
         "block": "A",
         "floor": "9º ANDAR",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.47",
-            "hyperlink": "http://10.9.9.47/"
-        },
+        "connection": "http://10.9.9.47/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-9AM1",
         "SNMP": "OK"
     },
@@ -245,10 +200,7 @@
         "block": "A",
         "floor": "3SS",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.40",
-            "hyperlink": "http://10.9.9.40/"
-        },
+        "connection": "http://10.9.9.40/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-4SAM2",
         "SNMP": "OK"
     },
@@ -259,10 +211,7 @@
         "block": "A",
         "floor": "3SS",
         "building": "H9J",
-        "connection": {
-            "text": "10.9.9.39",
-            "hyperlink": "http://10.9.9.39/"
-        },
+        "connection": "http://10.9.9.39/sws/app/information/home/home.json",
         "queue": "PRN-4SAM1",
         "SNMP": "OK"
     },
@@ -273,7 +222,7 @@
         "block": "CME",
         "floor": "9º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.61",
+        "connection": "http://172.18.157.61/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-9M5",
         "SNMP": "OK"
     },
@@ -284,7 +233,7 @@
         "block": "B",
         "floor": "7SS",
         "building": "H9J",
-        "connection": "10.9.9.96",
+        "connection": "http://10.9.9.96/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-5SBM4",
         "SNMP": "OK"
     },
@@ -295,7 +244,7 @@
         "block": "B",
         "floor": "6SS",
         "building": "H9J",
-        "connection": "10.9.9.94",
+        "connection": "http://10.9.9.94/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6SBM1",
         "SNMP": "OK"
     },
@@ -306,7 +255,7 @@
         "block": "B",
         "floor": "6SS",
         "building": "H9J",
-        "connection": "10.9.9.93",
+        "connection": "http://10.9.9.93/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1BM5",
         "SNMP": "OK"
     },
@@ -328,7 +277,7 @@
         "block": "B",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.90",
+        "connection": "http://10.9.9.90/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5SBM3",
         "SNMP": "OK"
     },
@@ -339,7 +288,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.29",
+        "connection": "http://10.103.126.29/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1CM17",
         "SNMP": "OK"
     },
@@ -350,7 +299,7 @@
         "block": "B",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.89",
+        "connection": "http://10.9.9.89/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5SAM1",
         "SNMP": "OK"
     },
@@ -361,7 +310,7 @@
         "block": "C",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.16",
+        "connection": "http://10.103.126.16/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4CM2",
         "SNMP": "Ok"
     },
@@ -372,7 +321,7 @@
         "block": "B",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.88",
+        "connection": "http://10.9.9.88/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5SAM2",
         "SNMP": "OK"
     },
@@ -383,7 +332,7 @@
         "block": "B",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.85",
+        "connection": "http://10.9.9.85/sws/app/information/home/home.json",
         "queue": "PRN-2DM1",
         "SNMP": "OK"
     },
@@ -394,7 +343,7 @@
         "block": "B",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.66",
+        "connection": "http://10.103.126.66/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1CM13",
         "SNMP": "OK"
     },
@@ -405,7 +354,7 @@
         "block": "B",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.87",
+        "connection": "http://10.9.9.87/sws/app/information/home/home.json",
         "queue": "PRN-5SBM1",
         "SNMP": "OK"
     },
@@ -416,7 +365,7 @@
         "block": "B",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "10.9.9.83",
+        "connection": "http://10.9.9.83/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-4SBM2",
         "SNMP": "OK"
     },
@@ -427,7 +376,7 @@
         "block": "B",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "10.9.9.82",
+        "connection": "http://10.9.9.82/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4SBM1",
         "SNMP": "OK"
     },
@@ -438,7 +387,7 @@
         "block": "B",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.9.9.86",
+        "connection": "http://10.9.9.86/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3SBM3",
         "SNMP": "OK"
     },
@@ -449,7 +398,7 @@
         "block": "B",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.9.9.77",
+        "connection": "http://10.9.9.77/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3SBM4",
         "SNMP": "OK"
     },
@@ -460,7 +409,7 @@
         "block": "B",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.9.9.76",
+        "connection": "http://10.9.9.76/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3SBM2",
         "SNMP": "OK"
     },
@@ -471,7 +420,7 @@
         "block": "B",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.9.9.75",
+        "connection": "http://10.9.9.75/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3SBM1",
         "SNMP": "OK"
     },
@@ -482,7 +431,7 @@
         "block": "B",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.9.9.69",
+        "connection": "http://10.9.9.69/sws/app/information/home/home.json",
         "queue": "PRN-6BM1",
         "SNMP": "OK"
     },
@@ -493,7 +442,7 @@
         "block": "B",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "10.9.9.68",
+        "connection": "http://10.9.9.68/sws/app/information/home/home.json",
         "queue": "PRN-5SBM2",
         "SNMP": "OK"
     },
@@ -504,7 +453,7 @@
         "block": "B",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "10.9.9.67",
+        "connection": "http://10.9.9.67/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-2SBM1",
         "SNMP": "OK"
     },
@@ -515,7 +464,7 @@
         "block": "B",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.62",
+        "connection": "http://10.9.9.62/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1SBCM1",
         "SNMP": "OK"
     },
@@ -526,7 +475,7 @@
         "block": "B",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.61",
+        "connection": "http://10.9.9.61/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SMB1",
         "SNMP": "OK"
     },
@@ -537,7 +486,7 @@
         "block": "B",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.60",
+        "connection": "http://10.9.9.60/sws/app/information/home/home.json",
         "queue": "PRN-1SBM2",
         "SNMP": "OK"
     },
@@ -548,7 +497,7 @@
         "block": "B",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "10.9.9.55",
+        "connection": "http://10.9.9.55/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1BTM1",
         "SNMP": "OK"
     },
@@ -559,7 +508,7 @@
         "block": "B",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "10.9.9.54",
+        "connection": "http://10.9.9.54/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TBM1",
         "SNMP": "OK"
     },
@@ -570,7 +519,7 @@
         "block": "B",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "10.9.9.53",
+        "connection": "http://10.9.9.53/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM24",
         "SNMP": "OK"
     },
@@ -581,7 +530,7 @@
         "block": "B",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.59",
+        "connection": "http://10.9.9.59/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1BM1",
         "SNMP": "OK"
     },
@@ -592,7 +541,7 @@
         "block": "B",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.58",
+        "connection": "http://10.9.9.58/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1BM2",
         "SNMP": "OK"
     },
@@ -603,7 +552,7 @@
         "block": "B",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.57",
+        "connection": "http://10.9.9.57/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1BM3",
         "SNMP": "OK"
     },
@@ -614,7 +563,7 @@
         "block": "B",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.56",
+        "connection": "http://10.9.9.56/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1BM4",
         "SNMP": "OK"
     },
@@ -625,7 +574,7 @@
         "block": "B",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.66",
+        "connection": "http://10.9.9.66/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-2BM1",
         "SNMP": "OK"
     },
@@ -646,7 +595,7 @@
         "block": "B",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.65",
+        "connection": "http://10.9.9.65/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2CM3",
         "SNMP": "OK"
     },
@@ -657,7 +606,7 @@
         "block": "B",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.64",
+        "connection": "http://10.9.9.64/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5BM2",
         "SNMP": "OK"
     },
@@ -668,7 +617,7 @@
         "block": "B",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.63",
+        "connection": "http://10.9.9.63/sws/app/information/home/home.json",
         "queue": "PRN-2CC1",
         "SNMP": "OK"
     },
@@ -679,7 +628,7 @@
         "block": "B",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.74",
+        "connection": "http://10.9.9.74/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3BM2",
         "SNMP": "OK"
     },
@@ -690,7 +639,7 @@
         "block": "B",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.73",
+        "connection": "http://10.9.9.73/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3CM4",
         "SNMP": "OK"
     },
@@ -701,7 +650,7 @@
         "block": "B",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.72",
+        "connection": "http://10.9.9.72/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3BM4",
         "SNMP": "OK"
     },
@@ -712,7 +661,7 @@
         "block": "B",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.71",
+        "connection": "http://10.9.9.71/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3BM3",
         "SNMP": "OK"
     },
@@ -723,7 +672,7 @@
         "block": "B",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.70",
+        "connection": "http://10.9.9.70/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3BM1",
         "SNMP": "OK"
     },
@@ -734,7 +683,7 @@
         "block": "B",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.78",
+        "connection": "http://10.9.9.78/sws/app/information/home/home.json",
         "queue": "PRN-4BC1",
         "SNMP": "OK"
     },
@@ -745,7 +694,7 @@
         "block": "B",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.42",
+        "connection": "http://10.9.9.42/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4AM2",
         "SNMP": "OK"
     },
@@ -756,7 +705,7 @@
         "block": "B",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.81",
+        "connection": "http://10.9.9.81/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4BM2",
         "SNMP": "OK"
     },
@@ -767,7 +716,7 @@
         "block": "B",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.80",
+        "connection": "http://10.9.9.80/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4BM5",
         "SNMP": "OK"
     },
@@ -778,7 +727,7 @@
         "block": "B",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.79",
+        "connection": "http://10.9.9.79/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4BM3",
         "SNMP": "OK"
     },
@@ -789,7 +738,7 @@
         "block": "B",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.84",
+        "connection": "http://10.9.9.84/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-5AM2",
         "SNMP": "OK"
     },
@@ -800,7 +749,7 @@
         "block": "B",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.92",
+        "connection": "http://10.9.9.92/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6BM2",
         "SNMP": "OK"
     },
@@ -811,7 +760,7 @@
         "block": "C",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.115",
+        "connection": "http://172.18.156.115/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5CM1",
         "SNMP": "OK"
     },
@@ -822,7 +771,7 @@
         "block": "B",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.95",
+        "connection": "http://10.9.9.95/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4BM4",
         "SNMP": "OK"
     },
@@ -833,7 +782,7 @@
         "block": "B",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.97",
+        "connection": "http://10.9.9.97/sws/app/information/home/home.json",
         "queue": "PRN-5BC1",
         "SNMP": "OK"
     },
@@ -844,7 +793,7 @@
         "block": "B",
         "floor": "9º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.98",
+        "connection": "http://10.9.9.98/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-9AM2",
         "SNMP": "OK"
     },
@@ -1215,10 +1164,7 @@
         "block": "Centro de Estudos",
         "floor": "TERREO",
         "building": "Centro de Estudos",
-        "connection": {
-            "text": "172.18.157.80",
-            "hyperlink": "http://172.18.157.80/"
-        },
+        "connection": "http://172.18.157.80/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-SAMEC2"
     },
     {
@@ -1228,7 +1174,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.24.81",
+        "connection": "http://10.9.24.81/DevMgmt/ProductUsageDyn.xml",
         "queue": "-"
     },
     {
@@ -1238,7 +1184,7 @@
         "block": "C",
         "floor": "6SS",
         "building": "H9J",
-        "connection": "172.18.156.33",
+        "connection": "http://172.18.156.33/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-7SBM1",
         "SNMP": "OK"
     },
@@ -1249,7 +1195,7 @@
         "block": "C",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.150",
+        "connection": "http://10.9.9.150/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5SCGM1",
         "SNMP": "OK"
     },
@@ -1340,7 +1286,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.225",
+        "connection": "http://172.18.156.225/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TCM26",
         "SNMP": "OK"
     },
@@ -1351,7 +1297,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.142",
+        "connection": "http://172.18.156.142/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TCM14",
         "SNMP": "OK"
     },
@@ -1362,7 +1308,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.91",
+        "connection": "http://172.18.156.91/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TCM18",
         "SNMP": "OK"
     },
@@ -1373,7 +1319,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.77",
+        "connection": "http://172.18.156.77/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TCM4",
         "SNMP": "OK"
     },
@@ -1384,7 +1330,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.75",
+        "connection": "http://172.18.156.75/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TCM2",
         "SNMP": "OK"
     },
@@ -1395,7 +1341,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.76",
+        "connection": "http://172.18.156.76/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TCM3",
         "SNMP": "OK"
     },
@@ -1406,7 +1352,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.169",
+        "connection": "http://172.18.156.169/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM22",
         "SNMP": "OK"
     },
@@ -1417,7 +1363,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.164",
+        "connection": "http://172.18.156.164/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM8",
         "SNMP": "OK"
     },
@@ -1428,7 +1374,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.84",
+        "connection": "http://172.18.156.84/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM11",
         "SNMP": "OK"
     },
@@ -1439,7 +1385,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.167",
+        "connection": "http://172.18.156.167/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM19",
         "SNMP": "OK"
     },
@@ -1450,7 +1396,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.79",
+        "connection": "http://172.18.156.79/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM6"
     },
     {
@@ -1460,7 +1406,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.53",
+        "connection": "http://172.18.156.53/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM25",
         "SNMP": "OK"
     },
@@ -1471,7 +1417,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.83",
+        "connection": "http://172.18.156.83/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM10",
         "SNMP": "OK"
     },
@@ -1482,7 +1428,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.90",
+        "connection": "http://172.18.156.90/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM5",
         "SNMP": "OK"
     },
@@ -1493,7 +1439,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.85",
+        "connection": "http://172.18.156.85/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM12",
         "SNMP": "OK"
     },
@@ -1504,7 +1450,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.125",
+        "connection": "http://172.18.156.125/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM27",
         "SNMP": "OK"
     },
@@ -1515,7 +1461,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.92",
+        "connection": "http://172.18.156.92/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM13",
         "SNMP": "OK"
     },
@@ -1526,7 +1472,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.93",
+        "connection": "http://172.18.156.93/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM21",
         "SNMP": "OK"
     },
@@ -1537,7 +1483,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.254",
+        "connection": "http://172.18.156.254/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-TCM32",
         "SNMP": "OK"
     },
@@ -1548,7 +1494,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "172.18.156.74",
+        "connection": "http://172.18.156.74/sws/app/information/home/home.json",
         "queue": "PRN-TCM1"
     },
     {
@@ -1558,7 +1504,7 @@
         "block": "C",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "10.103.126.27",
+        "connection": "http://10.103.126.27/sws/app/information/home/home.json",
         "queue": "PRN-TCM23",
         "SNMP": "OK"
     },
@@ -1569,7 +1515,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.136",
+        "connection": "http://10.9.9.136/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1CM12",
         "SNMP": "OK"
     },
@@ -1580,7 +1526,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.96",
+        "connection": "http://172.18.156.96/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1CM3",
         "SNMP": "OK"
     },
@@ -1591,7 +1537,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.97",
+        "connection": "http://172.18.156.97/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1CM4",
         "SNMP": "OK"
     },
@@ -1602,7 +1548,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.19",
+        "connection": "http://10.103.126.19/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1CM9",
         "SNMP": "OK"
     },
@@ -1613,7 +1559,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.20",
+        "connection": "http://10.103.126.20/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1CM10",
         "SNMP": "OK"
     },
@@ -1624,7 +1570,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.73",
+        "connection": "http://172.18.156.73/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1CRX1",
         "SNMP": "OK"
     },
@@ -1635,7 +1581,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.181",
+        "connection": "http://172.18.156.181/sws/app/information/home/home.json",
         "queue": "PRN-1CM15"
     },
     {
@@ -1645,7 +1591,7 @@
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.94",
+        "connection": "http://172.18.156.94/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1CM1",
         "SNMP": "OK"
     },
@@ -1656,7 +1602,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.100",
+        "connection": "http://172.18.156.100/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-2CM2",
         "SNMP": "OK"
     },
@@ -1667,7 +1613,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.39",
+        "connection": "http://172.18.156.39/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2CM6",
         "SNMP": "OK"
     },
@@ -1678,7 +1624,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.102",
+        "connection": "http://172.18.156.102/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2CM4",
         "SNMP": "OK"
     },
@@ -1689,7 +1635,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.103",
+        "connection": "http://172.18.156.103/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2CM5",
         "SNMP": "OK"
     },
@@ -1700,7 +1646,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.99",
+        "connection": "http://172.18.156.99/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2CM1",
         "SNMP": "OK"
     },
@@ -1711,7 +1657,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.105",
+        "connection": "http://172.18.156.105/DevMgmt/ProductUsageDyn.xml",
         "queue": "LSF-2BM1",
         "SNMP": "OK"
     },
@@ -1722,7 +1668,7 @@
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.148",
+        "connection": "http://172.18.156.148/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3CM8",
         "SNMP": "OK"
     },
@@ -1733,7 +1679,7 @@
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.110",
+        "connection": "http://172.18.156.110/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-3CM2",
         "SNMP": "OK"
     },
@@ -1744,7 +1690,7 @@
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.162",
+        "connection": "http://172.18.156.162/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3CM9",
         "SNMP": "OK"
     },
@@ -1755,7 +1701,7 @@
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.152",
+        "connection": "http://172.18.156.152/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3CM6",
         "SNMP": "OK"
     },
@@ -1776,7 +1722,7 @@
         "block": "B",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.155",
+        "connection": "http://172.18.156.155/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3CM5",
         "SNMP": "OK"
     },
@@ -1787,7 +1733,7 @@
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.65",
+        "connection": "http://10.103.126.65/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3CM7",
         "SNMP": "OK"
     },
@@ -1798,7 +1744,7 @@
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.111",
+        "connection": "http://172.18.156.111/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3CM1",
         "SNMP": "OK"
     },
@@ -1809,7 +1755,7 @@
         "block": "C",
         "floor": "4º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.113",
+        "connection": "http://172.18.156.113/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4CM1",
         "SNMP": "OK"
     },
@@ -1820,7 +1766,7 @@
         "block": "C",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.15",
+        "connection": "http://10.103.126.15/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-5CM2",
         "SNMP": "OK"
     },
@@ -1831,7 +1777,7 @@
         "block": "C",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.82",
+        "connection": "http://172.18.156.82/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-6CM3",
         "SNMP": "OK"
     },
@@ -1842,7 +1788,7 @@
         "block": "C",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.116",
+        "connection": "http://172.18.156.116/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-6CM1",
         "SNMP": "OK"
     },
@@ -1853,7 +1799,7 @@
         "block": "C",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.26",
+        "connection": "http://10.103.126.26/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6CM6",
         "SNMP": "OK"
     },
@@ -1864,7 +1810,7 @@
         "block": "C",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.118",
+        "connection": "http://172.18.156.118/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-7CM1",
         "SNMP": "OK"
     },
@@ -1875,7 +1821,7 @@
         "block": "C",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.122",
+        "connection": "http://172.18.156.122/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-7CM3",
         "SNMP": "OK"
     },
@@ -1886,7 +1832,7 @@
         "block": "C",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.103.126.25",
+        "connection": "http://10.103.126.25/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-7CM5",
         "SNMP": "OK"
     },
@@ -1897,7 +1843,7 @@
         "block": "C",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.15",
+        "connection": "http://10.9.9.15/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-7TI1",
         "SNMP": "OK"
     },
@@ -1908,7 +1854,7 @@
         "block": "C",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "172.18.156.60",
+        "connection": "http://172.18.156.60/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-4SCM2",
         "SNMP": "OK"
     },
@@ -1919,7 +1865,7 @@
         "block": "C",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "172.18.156.178",
+        "connection": "http://172.18.156.178/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-4SBM4",
         "SNMP": "OK"
     },
@@ -1930,7 +1876,7 @@
         "block": "C",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "172.18.156.108",
+        "connection": "http://172.18.156.108/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4SCM3",
         "SNMP": "OK"
     },
@@ -1941,7 +1887,7 @@
         "block": "C",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "172.18.156.221",
+        "connection": "http://172.18.156.221/sws/app/information/home/home.json",
         "queue": "PRN-4SBM3"
     },
     {
@@ -1951,7 +1897,7 @@
         "block": "C",
         "floor": "4SS",
         "building": "H9J",
-        "connection": "172.18.156.59",
+        "connection": "http://172.18.156.59/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4SCM1",
         "SNMP": "OK"
     },
@@ -1962,7 +1908,7 @@
         "block": "C",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "172.18.156.141",
+        "connection": "http://172.18.156.141/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-TDM2"
     },
     {
@@ -1972,7 +1918,7 @@
         "block": "C",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "172.18.156.219",
+        "connection": "http://172.18.156.219/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-DASA-3SCM1",
         "SNMP": "OK"
     },
@@ -1983,7 +1929,7 @@
         "block": "C",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "172.18.156.117",
+        "connection": "http://172.18.156.117/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3SCM5"
     },
     {
@@ -1993,7 +1939,7 @@
         "block": "C",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "172.18.156.61",
+        "connection": "http://172.18.156.61/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3SCM1",
         "SNMP": "OK"
     },
@@ -2004,7 +1950,7 @@
         "block": "C",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.111.65.8",
+        "connection": "http://10.111.65.8/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "-"
     },
     {
@@ -2014,7 +1960,7 @@
         "block": "C",
         "floor": "3SS",
         "building": "H9J",
-        "connection": "10.111.65.126",
+        "connection": "http://10.111.65.126/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "-"
     },
     {
@@ -2024,7 +1970,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "10.103.126.28",
+        "connection": "http://10.103.126.28/sws/app/information/home/home.json",
         "queue": "PRN-2SCM8",
         "SNMP": "OK"
     },
@@ -2035,7 +1981,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "10.103.126.30",
+        "connection": "http://10.103.126.30/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-2SCM14",
         "SNMP": "OK"
     },
@@ -2046,7 +1992,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "172.18.156.201",
+        "connection": "http://172.18.156.201/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-2SCM4",
         "SNMP": "OK"
     },
@@ -2057,7 +2003,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "172.18.156.62",
+        "connection": "http://172.18.156.62/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-2SCM1",
         "SNMP": "OK"
     },
@@ -2068,7 +2014,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "172.18.156.197",
+        "connection": "http://172.18.156.197/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5DM1",
         "SNMP": "OK"
     },
@@ -2079,7 +2025,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "172.18.156.64",
+        "connection": "http://172.18.156.64/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2SCM3",
         "SNMP": "OK"
     },
@@ -2090,18 +2036,18 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "10.103.126.35",
+        "connection": "http://10.103.126.35/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2SCM7",
         "SNMP": "OK"
     },
     {
         "serie": "BRBSN121PV",
         "model": "M428FDW",
-        "sector": "SEGUNDA RECEPÇÃO SID(em frente ao elevador)",
+        "sector": "SEGUNDA RECEPÇÃO SID(EM FRENTE AO ELEVADOR)",
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "10.103.126.55",
+        "connection": "http://10.103.126.55/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2SCM2",
         "SNMP": "OK"
     },
@@ -2112,7 +2058,7 @@
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "172.18.30.38",
+        "connection": "http://172.18.30.38/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2SCC1",
         "SNMP": "OK"
     },
@@ -2123,7 +2069,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.147",
+        "connection": "http://10.9.9.147/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SCM4",
         "SNMP": "OK"
     },
@@ -2134,7 +2080,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.148",
+        "connection": "http://10.9.9.148/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1SCM2",
         "SNMP": "OK"
     },
@@ -2145,7 +2091,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.139",
+        "connection": "http://10.9.9.139/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1SCM9",
         "SNMP": "OK"
     },
@@ -2156,18 +2102,18 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.100",
+        "connection": "http://10.9.9.100/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1SCM10",
         "SNMP": "OK"
     },
     {
         "serie": "BRBSN3CGLH",
         "model": "M404DW",
-        "sector": "CC (antiga robótica)",
+        "sector": "CC (ANTIGA ROBÓTICA)",
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.137",
+        "connection": "http://10.9.9.137/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SCM12",
         "SNMP": "OK"
     },
@@ -2178,7 +2124,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.138",
+        "connection": "http://10.9.9.138/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SAM2",
         "SNMP": "OK"
     },
@@ -2189,7 +2135,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.143",
+        "connection": "http://10.9.9.143/sws/app/information/home/home.json",
         "queue": "PRN-1SAM1",
         "SNMP": "OK"
     },
@@ -2200,7 +2146,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.144",
+        "connection": "http://10.9.9.144/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SAM4",
         "SNMP": "OK"
     },
@@ -2211,7 +2157,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "172.18.156.89",
+        "connection": "http://172.18.156.89/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-1SCM6",
         "SNMP": "OK"
     },
@@ -2222,7 +2168,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.145",
+        "connection": "http://10.9.9.145/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SCM3",
         "SNMP": "OK"
     },
@@ -2233,7 +2179,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.146",
+        "connection": "http://10.9.9.146/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SAM3",
         "SNMP": "OK"
     },
@@ -2244,7 +2190,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.103.126.17",
+        "connection": "http://10.103.126.17/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1SCM7",
         "SNMP": "OK"
     },
@@ -2255,7 +2201,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.141",
+        "connection": "http://10.9.9.141/sws/app/information/home/home.json",
         "queue": "PRN-1SCM11"
     },
     {
@@ -2265,7 +2211,7 @@
         "block": "C",
         "floor": "1SS",
         "building": "H9J",
-        "connection": "10.9.9.142",
+        "connection": "http://10.9.9.142/sws/app/information/home/home.json",
         "queue": "PRN-1SCC1",
         "SNMP": "OK"
     },
@@ -2276,7 +2222,7 @@
         "block": "C",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.227",
+        "connection": "http://172.18.156.227/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-2CM7",
         "SNMP": "OK"
     },
@@ -2287,7 +2233,7 @@
         "block": "D",
         "floor": "TERREO",
         "building": "H9J",
-        "connection": "10.9.9.110",
+        "connection": "http://10.9.9.110/sws/app/information/home/home.json",
         "queue": "PRN-TDM1",
         "SNMP": "OK"
     },
@@ -2298,7 +2244,7 @@
         "block": "D",
         "floor": "MEZANINO",
         "building": "H9J",
-        "connection": "172.18.156.132",
+        "connection": "http://172.18.156.132/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-MDM1",
         "SNMP": "OK"
     },
@@ -2309,7 +2255,7 @@
         "block": "D",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.34",
+        "connection": "http://10.9.9.34/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1DM3",
         "SNMP": "OK"
     },
@@ -2320,7 +2266,7 @@
         "block": "D",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.26",
+        "connection": "http://10.9.9.26/sws/app/information/home/home.json",
         "queue": "PRN-TDM2",
         "SNMP": "OK"
     },
@@ -2331,7 +2277,7 @@
         "block": "D",
         "floor": "1º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.11",
+        "connection": "http://10.9.9.11/sws/app/information/home/home.json",
         "queue": "PRN-1DM12",
         "SNMP": "OK"
     },
@@ -2342,7 +2288,7 @@
         "block": "D",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.33",
+        "connection": "http://10.9.9.33/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5SBM5",
         "SNMP": "OK"
     },
@@ -2353,7 +2299,7 @@
         "block": "D",
         "floor": "2º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.127",
+        "connection": "http://10.9.9.127/sws/app/information/home/home.json",
         "queue": "-"
     },
     {
@@ -2363,7 +2309,7 @@
         "block": "D",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.125",
+        "connection": "http://10.9.9.125/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-3DM1",
         "SNMP": "OK"
     },
@@ -2374,7 +2320,7 @@
         "block": "D",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": "172.18.156.223",
+        "connection": "http://172.18.156.223/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5DM5",
         "SNMP": "OK"
     },
@@ -2385,7 +2331,7 @@
         "block": "D",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.32",
+        "connection": "http://10.9.9.32/sws/app/information/home/home.json",
         "queue": "PRN-5DM10",
         "SNMP": "OK"
     },
@@ -2396,7 +2342,7 @@
         "block": "D",
         "floor": "5º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.31",
+        "connection": "http://10.9.9.31/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-5DM6",
         "SNMP": "OK"
     },
@@ -2407,7 +2353,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.28",
+        "connection": "http://10.9.9.28/sws/app/information/home/home.json",
         "queue": "PRN-6DM7",
         "SNMP": "OK"
     },
@@ -2418,7 +2364,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.27",
+        "connection": "http://10.9.9.27/sws/app/information/home/home.json",
         "queue": "PRN-6DM8",
         "SNMP": "OK"
     },
@@ -2429,7 +2375,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.35",
+        "connection": "http://10.9.9.35/sws/app/information/home/home.json",
         "queue": "PRN-7DM8",
         "SNMP": "OK"
     },
@@ -2440,7 +2386,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.22",
+        "connection": "http://10.9.9.22/sws/app/information/home/home.json",
         "queue": "PRN-7DM7",
         "SNMP": "OK"
     },
@@ -2451,7 +2397,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.21",
+        "connection": "http://10.9.9.21/sws/app/information/home/home.json",
         "queue": "PRN-7DM6",
         "SNMP": "OK"
     },
@@ -2462,7 +2408,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.17",
+        "connection": "http://10.9.9.17/sws/app/information/home/home.json",
         "queue": "PRN-7DM2",
         "SNMP": "OK"
     },
@@ -2473,7 +2419,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.16",
+        "connection": "http://10.9.9.16/sws/app/information/home/home.json",
         "queue": "PRN-7DM1",
         "SNMP": "OK"
     },
@@ -2484,7 +2430,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.116",
+        "connection": "http://10.9.9.116/sws/app/information/home/home.json",
         "queue": "PRN-7DM5",
         "SNMP": "OK"
     },
@@ -2495,7 +2441,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.107",
+        "connection": "http://10.9.9.107/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-7DM4",
         "SNMP": "OK"
     },
@@ -2506,7 +2452,7 @@
         "block": "D",
         "floor": "7º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.106",
+        "connection": "http://10.9.9.106/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-7DM3",
         "SNMP": "OK"
     },
@@ -2517,7 +2463,7 @@
         "block": "D",
         "floor": "2SS",
         "building": "H9J",
-        "connection": "172.18.156.147",
+        "connection": "http://172.18.156.147/sws/app/information/home/home.json",
         "queue": "PRN-2SDM2",
         "SNMP": "OK"
     },
@@ -2528,7 +2474,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.25",
+        "connection": "http://10.9.9.25/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6DM2",
         "SNMP": "OK"
     },
@@ -2539,7 +2485,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.24",
+        "connection": "http://10.9.9.24/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6DM1"
     },
     {
@@ -2549,7 +2495,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.104",
+        "connection": "http://10.9.9.104/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6DM5"
     },
     {
@@ -2559,7 +2505,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.102",
+        "connection": "http://10.9.9.102/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6DM4"
     },
     {
@@ -2569,7 +2515,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.134",
+        "connection": "http://10.9.9.134/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6DM3"
     },
     {
@@ -2579,7 +2525,7 @@
         "block": "D",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.29",
+        "connection": "http://10.9.9.29/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6DM6"
     },
     {
@@ -2599,7 +2545,7 @@
         "block": "D",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.30",
+        "connection": "http://10.9.9.30/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-4BM6",
         "SNMP": "OK"
     },
@@ -2610,7 +2556,7 @@
         "block": "D",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.23",
+        "connection": "http://10.9.9.23/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-1DM10",
         "SNMP": "OK"
     },
@@ -2641,7 +2587,7 @@
         "block": "D",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.101",
+        "connection": "http://10.9.9.101/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-8DM5"
     },
     {
@@ -2651,7 +2597,7 @@
         "block": "D",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.99",
+        "connection": "http://10.9.9.99/sws/app/information/home/home.json",
         "queue": "PRN-8DM4",
         "SNMP": "OK"
     },
@@ -2662,7 +2608,7 @@
         "block": "CME",
         "floor": "2SS",
         "building": "CME",
-        "connection": "172.18.157.36",
+        "connection": "http://172.18.157.36/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-2SM1",
         "SNMP": "OK"
     },
@@ -2683,7 +2629,7 @@
         "block": "CME",
         "floor": "1SS",
         "building": "CME",
-        "connection": "172.18.157.11",
+        "connection": "http://172.18.157.11/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-CME-1SM1",
         "SNMP": "OK"
     },
@@ -2694,7 +2640,7 @@
         "block": "CME",
         "floor": "TERREO",
         "building": "CME",
-        "connection": "172.18.157.64",
+        "connection": "http://172.18.157.64/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-TM2",
         "SNMP": "OK"
     },
@@ -2705,7 +2651,7 @@
         "block": "CME",
         "floor": "TERREO",
         "building": "CME",
-        "connection": "172.18.157.63",
+        "connection": "http://172.18.157.63/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-TM1",
         "SNMP": "OK"
     },
@@ -2716,7 +2662,7 @@
         "block": "CME",
         "floor": "1º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.71",
+        "connection": "http://172.18.157.71/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-1M1",
         "SNMP": "OK"
     },
@@ -2727,7 +2673,7 @@
         "block": "CME",
         "floor": "6º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.69",
+        "connection": "http://172.18.157.69/sws/app/information/home/home.json",
         "queue": "PRN-CME-1ADM2",
         "SNMP": "OK"
     },
@@ -2738,10 +2684,7 @@
         "block": "CME",
         "floor": "2º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "172.18.157.95",
-            "hyperlink": "http://172.18.157.95/"
-        },
+        "connection": "http://172.18.157.95/sws/app/information/home/home.json",
         "queue": "-",
         "SNMP": "OK"
     },
@@ -2752,10 +2695,7 @@
         "block": "CME",
         "floor": "2º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "172.18.157.22",
-            "hyperlink": "http://172.18.157.22/"
-        },
+        "connection": "http://172.18.157.22/DevMgmt/ProductUsageDyn.xml",
         "queue": "laboratorio alta-simpress",
         "SNMP": "OK"
     },
@@ -2766,10 +2706,7 @@
         "block": "CME",
         "floor": "2º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "10.111.144.25",
-            "hyperlink": "http://10.111.144.25/"
-        },
+        "connection": "http://10.111.144.25/DevMgmt/ProductUsageDyn.xml",
         "queue": "-"
     },
     {
@@ -2779,10 +2716,7 @@
         "block": "CME",
         "floor": "2º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "10.111.144.89",
-            "hyperlink": "http://10.111.144.89/"
-        },
+        "connection": "http://10.111.144.89/DevMgmt/ProductUsageDyn.xml",
         "queue": "-"
     },
     {
@@ -2792,10 +2726,7 @@
         "block": "CME",
         "floor": "2º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "172.18.157.96",
-            "hyperlink": "http://178.18.157.56/"
-        },
+        "connection": "http://172.18.157.96/sws/app/information/home/home.json",
         "queue": "-",
         "SNMP": "OK"
     },
@@ -2806,7 +2737,7 @@
         "block": "CME",
         "floor": "3º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.40",
+        "connection": "http://172.18.157.40/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-3M3"
     },
     {
@@ -2816,7 +2747,7 @@
         "block": "CME",
         "floor": "3º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.41",
+        "connection": "http://172.18.157.41/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-3M5"
     },
     {
@@ -2826,7 +2757,7 @@
         "block": "CME",
         "floor": "3º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.42",
+        "connection": "http://172.18.157.42/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-3M6",
         "SNMP": "OK"
     },
@@ -2837,7 +2768,7 @@
         "block": "CME",
         "floor": "3º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.43",
+        "connection": "http://172.18.157.43/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-3M4",
         "SNMP": "OK"
     },
@@ -2848,7 +2779,7 @@
         "block": "CME",
         "floor": "4º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.44",
+        "connection": "http://172.18.157.44/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-CME-4M2",
         "SNMP": "OK"
     },
@@ -2859,7 +2790,7 @@
         "block": "CME",
         "floor": "4º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.47",
+        "connection": "http://172.18.157.47/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-4M4"
     },
     {
@@ -2869,7 +2800,7 @@
         "block": "CME",
         "floor": "4º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.45",
+        "connection": "http://172.18.157.45/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-4M3",
         "SNMP": "OK"
     },
@@ -2880,7 +2811,7 @@
         "block": "CME",
         "floor": "4º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.65",
+        "connection": "http://172.18.157.65/sws/app/information/home/home.json",
         "queue": "PRN-CME-4C1",
         "SNMP": "OK"
     },
@@ -2891,7 +2822,7 @@
         "block": "CME",
         "floor": "5º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.91",
+        "connection": "http://172.18.157.91/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-CEM3"
     },
     {
@@ -2901,7 +2832,7 @@
         "block": "CME",
         "floor": "5º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.54",
+        "connection": "http://172.18.157.54/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-CME-8M1"
     },
     {
@@ -2911,7 +2842,7 @@
         "block": "CME",
         "floor": "5º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.46",
+        "connection": "http://172.18.157.46/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-5M1",
         "SNMP": "OK"
     },
@@ -2922,7 +2853,7 @@
         "block": "CME",
         "floor": "6º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.29",
+        "connection": "http://172.18.157.29/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-13M7"
     },
     {
@@ -2932,7 +2863,7 @@
         "block": "CME",
         "floor": "6º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.105",
+        "connection": "http://172.18.157.105/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-6M6"
     },
     {
@@ -2942,7 +2873,7 @@
         "block": "CME",
         "floor": "7º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.48",
+        "connection": "http://172.18.157.48/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-7M2",
         "SNMP": "OK"
     },
@@ -2953,7 +2884,7 @@
         "block": "CME",
         "floor": "7º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.49",
+        "connection": "http://172.18.157.49/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-7M3",
         "SNMP": "OK"
     },
@@ -2964,7 +2895,7 @@
         "block": "CME",
         "floor": "7º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.101",
+        "connection": "http://172.18.157.101/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-5M5",
         "SNMP": "OK"
     },
@@ -2975,7 +2906,7 @@
         "block": "CME",
         "floor": "7º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.72",
+        "connection": "http://172.18.157.72/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-7M7",
         "SNMP": "OK"
     },
@@ -2986,7 +2917,7 @@
         "block": "CME",
         "floor": "7º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.52",
+        "connection": "http://172.18.157.52/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-7M1",
         "SNMP": "OK"
     },
@@ -2997,7 +2928,7 @@
         "block": "CME",
         "floor": "8º ANDAR ",
         "building": "CME",
-        "connection": "172.18.157.12",
+        "connection": "http://172.18.157.12/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-10M4",
         "SNMP": "OK"
     },
@@ -3008,7 +2939,7 @@
         "block": "CME",
         "floor": "8º ANDAR ",
         "building": "CME",
-        "connection": "172.18.157.21",
+        "connection": "http://172.18.157.21/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-11M2",
         "SNMP": "OK"
     },
@@ -3019,7 +2950,7 @@
         "block": "CME",
         "floor": "8º ANDAR ",
         "building": "CME",
-        "connection": "172.18.157.17",
+        "connection": "http://172.18.157.17/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-10M7",
         "SNMP": "OK"
     },
@@ -3030,7 +2961,7 @@
         "block": "CME",
         "floor": "8º ANDAR ",
         "building": "CME",
-        "connection": "172.18.157.16",
+        "connection": "http://172.18.157.16/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-10M6",
         "SNMP": "OK"
     },
@@ -3041,7 +2972,7 @@
         "block": "CME",
         "floor": "8º ANDAR ",
         "building": "CME",
-        "connection": "172.18.157.15",
+        "connection": "http://172.18.157.15/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-2DM2",
         "SNMP": "OK"
     },
@@ -3052,7 +2983,7 @@
         "block": "CME",
         "floor": "8º ANDAR ",
         "building": "CME",
-        "connection": "172.18.157.18",
+        "connection": "http://172.18.157.18/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-10M1",
         "SNMP": "OK"
     },
@@ -3063,7 +2994,7 @@
         "block": "CME",
         "floor": "9º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.56",
+        "connection": "http://172.18.157.56/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-9M6",
         "SNMP": "OK"
     },
@@ -3074,7 +3005,7 @@
         "block": "CME",
         "floor": "9º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.59",
+        "connection": "http://172.18.157.59/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-9M2",
         "SNMP": "OK"
     },
@@ -3085,7 +3016,7 @@
         "block": "CME",
         "floor": "9º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.60",
+        "connection": "http://172.18.157.60/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-9M4",
         "SNMP": "OK"
     },
@@ -3096,7 +3027,7 @@
         "block": "CME",
         "floor": "9º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.62",
+        "connection": "http://172.18.157.62/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-9M1",
         "SNMP": "OK"
     },
@@ -3107,7 +3038,7 @@
         "block": "CME",
         "floor": "10º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.19",
+        "connection": "http://172.18.157.19/sws/app/information/home/home.json",
         "queue": "PRN-CME-11M7",
         "SNMP": "OK"
     },
@@ -3118,7 +3049,7 @@
         "block": "CME",
         "floor": "10º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.20",
+        "connection": "http://172.18.157.20/DevMgmt/ProductUsageDyn.xml",
         "queue": "-",
         "SNMP": "OK"
     },
@@ -3129,7 +3060,7 @@
         "block": "CME",
         "floor": "10º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.25",
+        "connection": "http://172.18.157.25/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-CME-11M1",
         "SNMP": "OK"
     },
@@ -3140,7 +3071,7 @@
         "block": "Centro de Estudos",
         "floor": "TERREO",
         "building": "Centro de Estudos",
-        "connection": "172.18.157.102",
+        "connection": "http://172.18.157.102/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-SAMEC3"
     },
     {
@@ -3204,7 +3135,7 @@
         "block": "C",
         "floor": "5SS",
         "building": "H9J",
-        "connection": "10.9.9.151",
+        "connection": "http://10.9.9.151/sws/app/information/home/home.json",
         "queue": "PRN-5SCM2",
         "SNMP": "OK"
     },
@@ -3774,7 +3705,7 @@
         "block": "B",
         "floor": "6º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.91",
+        "connection": "http://10.9.9.91/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-6AM2",
         "SNMP": "OK"
     },
@@ -4153,7 +4084,7 @@
     {
         "serie": "D5J194201316",
         "model": "ZEBRA ZD220",
-        "sector": "Sala de comando 2",
+        "sector": "SALA DE COMANDO 2",
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
@@ -4164,7 +4095,7 @@
     {
         "serie": "D5J194201363",
         "model": "ZEBRA ZD220",
-        "sector": "Sala de comando- RESSONANCIA",
+        "sector": "SALA DE COMANDO- RESSONANCIA",
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
@@ -4175,7 +4106,7 @@
     {
         "serie": "D5J194200857",
         "model": "ZEBRA ZD220",
-        "sector": "Sala de laudos médicos",
+        "sector": "SALA DE LAUDOS MÉDICOS",
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
@@ -4549,7 +4480,7 @@
     {
         "serie": "52916088",
         "model": "SCANMATE I940",
-        "sector": "Sala de comando 2-Citilografia",
+        "sector": "SALA DE COMANDO 2-CITILOGRAFIA",
         "block": "C",
         "floor": "2SS",
         "building": "H9J",
@@ -4747,7 +4678,7 @@
     {
         "serie": "D5J194201882",
         "model": "ZEBRA ZD220",
-        "sector": "REPOUSO (recuperação anestésica)",
+        "sector": "REPOUSO (RECUPERAÇÃO ANESTÉSICA)",
         "block": "C",
         "floor": "1º ANDAR",
         "building": "H9J",
@@ -4802,7 +4733,7 @@
     {
         "serie": "D5N213800639",
         "model": "ZEBRA ZD230",
-        "sector": "Recepção PEIXOTINHO",
+        "sector": "RECEPÇÃO PEIXOTINHO",
         "block": "C",
         "floor": "3º ANDAR",
         "building": "H9J",
@@ -4926,7 +4857,7 @@
         "block": "Centro de Estudos",
         "floor": "1º ANDAR",
         "building": "Centro de Estudos",
-        "connection": "172.18.157.76",
+        "connection": "http://172.18.157.76/sws/app/information/home/home.json",
         "queue": "PRN-CEC1",
         "SNMP": "OK"
     },
@@ -4937,7 +4868,7 @@
         "block": "Centro de Estudos",
         "floor": "1º ANDAR",
         "building": "Centro de Estudos",
-        "connection": "172.18.157.77",
+        "connection": "http://172.18.157.77/sws/app/information/home/home.json",
         "queue": "PRN-CEM1"
     },
     {
@@ -4947,7 +4878,7 @@
         "block": "SESMT",
         "floor": "SESMT",
         "building": "SESMT",
-        "connection": "10.11.102.4",
+        "connection": "http://10.11.102.4/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-RHM3"
     },
     {
@@ -4957,7 +4888,7 @@
         "block": "SESMT",
         "floor": "SESMT",
         "building": "SESMT",
-        "connection": "10.11.102.2",
+        "connection": "http://10.11.102.2/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-MTM1"
     },
     {
@@ -4967,7 +4898,7 @@
         "block": "SESMT",
         "floor": "SESMT",
         "building": "SESMT",
-        "connection": "10.11.102.5",
+        "connection": "http://10.11.102.5/DevMgmt/ProductUsageDyn.xml",
         "queue": "-"
     },
     {
@@ -4977,7 +4908,7 @@
         "block": "SESMT",
         "floor": "SESMT",
         "building": "SESMT",
-        "connection": "10.11.102.3",
+        "connection": "http://10.11.102.3/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-RHM3"
     },
     {
@@ -4987,7 +4918,7 @@
         "block": "Centro de Estudos",
         "floor": "1SS",
         "building": "Centro de Estudos",
-        "connection": "172.18.157.78",
+        "connection": "http://172.18.157.78/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-CEM2"
     },
     {
@@ -4997,7 +4928,7 @@
         "block": "Centro de Estudos",
         "floor": "TERREO",
         "building": "Centro de Estudos",
-        "connection": "172.18.157.103",
+        "connection": "http://172.18.157.103/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-SAMEC4"
     },
     {
@@ -5007,7 +4938,7 @@
         "block": "CME",
         "floor": "1º ANDAR",
         "building": "CME",
-        "connection": "172.18.157.57",
+        "connection": "http://172.18.157.57/sws/app/information/home/home.json",
         "queue": "PRN-CME-6M4"
     },
     {
@@ -5017,10 +4948,7 @@
         "block": "CME",
         "floor": "2º ANDAR",
         "building": "CME",
-        "connection": {
-            "text": "172.18.157.57",
-            "hyperlink": "http://172.18.157.57/"
-        }
+        "connection": "http://172.18.157.57/sws/app/information/home/home.json"
     },
     {
         "serie": "D5J194201353",
@@ -5502,7 +5430,7 @@
         "block": "Centro de Estudos",
         "floor": "TERREO",
         "building": "Centro de Estudos",
-        "connection": "172.18.157.73",
+        "connection": "http://172.18.157.73/hp/device/InternalPages/Index?id=SuppliesStatus",
         "queue": "PRN-SAMEM1"
     },
     {
@@ -5742,7 +5670,7 @@
         "block": "A",
         "floor": "8º ANDAR",
         "building": "H9J",
-        "connection": "10.9.9.46",
+        "connection": "http://10.9.9.46/DevMgmt/ProductUsageDyn.xml",
         "queue": "PRN-8AM1",
         "SNMP": "OK"
     },

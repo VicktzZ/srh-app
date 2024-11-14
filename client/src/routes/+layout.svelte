@@ -4,7 +4,7 @@
 	import Nav from '../components/Nav.svelte';
 	import { writable } from 'svelte/store';
 	
-	const theme = writable()
+	const theme = writable('light')
 
 	export function toggleTheme() {
 		$theme === 'light' ? theme.set('dark') : theme.set('light')

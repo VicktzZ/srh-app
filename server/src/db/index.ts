@@ -1,5 +1,5 @@
-import type { Printer } from '#types'
-import { printerHasUnknownProps } from '$$lib'
+import type { Printer } from '@types'
+import { printerHasUnknownProps } from '@lib'
 import fs from 'fs/promises'
 
 const dataPath = (__dirname + '\\db.json')
@@ -15,12 +15,25 @@ export class Database {
         return prn || null
     }
 
-    public static async post(data: Printer): Promise<void> {
-        const currentData = await this.get()
-        await fs.writeFile(dataPath, JSON.stringify([ ...currentData, data ]))
+    public static async postPrinter(data: Printer): Promise<Printer> {
+        if (data) {
+            const currentData = await this.get()
+            console.log(currentData)
+            await fs.writeFile(dataPath, JSON.stringify([ ...currentData, data ]))
+        }
+
+        return data
     }
 
-    public static async delete(id: Printer['serie']): Promise<void | null> {
+    public static async postDatabase(data: Printer[]): Promise<Printer[]> {
+        if (data) {
+            await fs.writeFile(dataPath, JSON.stringify(data))
+        }
+
+        return data || null
+    }
+
+    public static async delete(id: Printer['serie']): Promise<Printer | null> {
         const data = await this.get()
         const prn = data.find(printer => printer.serie === id)
         
