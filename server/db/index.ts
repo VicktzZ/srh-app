@@ -1,5 +1,5 @@
-import { printerHasUnknownProps } from '$/lib'
-import type { Printer } from '$/types'
+import type { Printer } from '#types'
+import { printerHasUnknownProps } from '$$lib'
 import fs from 'fs/promises'
 
 const dataPath = (__dirname + '\\db.json')
@@ -12,12 +12,7 @@ export class Database {
 
     public static async getById(id: Printer['serie']): Promise<Printer | null> {
         const prn = (await this.get()).find(printer => printer.serie === id)
-
-        if (!prn || !id) {
-            return null
-        }
-
-        return prn
+        return prn || null
     }
 
     public static async post(data: Printer): Promise<void> {
@@ -45,12 +40,8 @@ export class Database {
         const currentData = await this.get()
         const prn = currentData.find(printer => printer.serie === id)
 
-        if (!prn || !id || !data) {
+        if (!prn || !id || !data || printerHasUnknownProps(prn)) {
             return null
-        }
-
-        if(printerHasUnknownProps(prn)) {
-            return 'PROPS DOES NOT EXIST'   
         }
         
         const i = currentData.indexOf(prn)

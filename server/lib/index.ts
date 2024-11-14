@@ -1,5 +1,5 @@
 import { printerHasUnknownProps } from "./printerHasUnknownProps";
-import { convertXSLStoJSON } from "./excelScript";
+import { convertXSLStoJSON } from "./excelScript"
 
 export {
     printerHasUnknownProps,

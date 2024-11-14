@@ -1,8 +1,8 @@
 import path from 'path'
 import fs from 'fs';
 import Excel, { type RowValues, type Worksheet } from 'exceljs'
-import { CONVERT_PRINTERS_MODEL, HPLink, HP_E_Link, SWSLink } from '$/constants';
-import { PrinterExcelColumns as colsEnum, type ExcelDefaultPrinter, type Printer } from '$/types'
+import { HPLink, HP_E_Link, SWSLink } from '$$constants';
+import { PrinterExcelColumns as colsEnum, type ExcelDefaultPrinter, type Printer } from '#types'
 
 const workbook = new Excel.Workbook()
 const filePath = path.join(__dirname, '/data.xlsx')

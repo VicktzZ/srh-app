@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "tsx watch ."
+    },
+    "type": "module",
+    "dependencies": {
+        "tsx": "^4.19.2"
+    }
+}
